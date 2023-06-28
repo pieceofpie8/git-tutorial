@@ -1,2 +1,2 @@
-console.log('config.js');
-console.log('version1');
+console.log('cconfig.js');
+console.log('version22 updated');
